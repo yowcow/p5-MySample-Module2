@@ -6,6 +6,5 @@ MANIFEST
 META.json
 META.yml
 README.md
-release-to-orepan.sh
 t/00-compile.t
 t/01-module2.t

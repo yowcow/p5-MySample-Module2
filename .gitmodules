@@ -1,0 +1,3 @@
+[submodule "my-orepan-dir"]
+	path = my-orepan-dir
+	url = git@github.com:yowcow/my-orepan-dir.git

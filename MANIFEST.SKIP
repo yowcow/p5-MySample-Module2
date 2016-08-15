@@ -83,3 +83,8 @@
 # Avoid including development files
 \B.proverc$
 \B.perltidyrc$
+
+\B.gitignore$
+\B.gitmodules$
+\bmy-orepan-dir
+\brelease-to-orepan.sh$
