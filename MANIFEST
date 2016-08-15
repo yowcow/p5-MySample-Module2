@@ -1,0 +1,7 @@
+Changes
+lib/MySample/Module2.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+t/00-compile.t
+t/01-module2.t
