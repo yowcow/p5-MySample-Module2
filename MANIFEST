@@ -1,7 +1,10 @@
 Build.PL
 Changes
 lib/MySample/Module2.pm
+lib/MySample/Module2/data.txt
 MANIFEST
+META.json
+META.yml
 README.md
 release-to-orepan.sh
 t/00-compile.t
