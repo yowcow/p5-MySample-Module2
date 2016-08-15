@@ -19,6 +19,14 @@
             "Module::Build" : "0"
          }
       },
+      "runtime" : {
+         "requires" : {
+            "File::Spec" : "0",
+            "Moo" : "0",
+            "namespace::clean" : "0",
+            "strictures" : "2"
+         }
+      },
       "test" : {
          "requires" : {
             "Test::More" : "0"

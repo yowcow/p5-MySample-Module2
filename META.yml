@@ -17,6 +17,11 @@ provides:
   MySample::Module2:
     file: lib/MySample/Module2.pm
     version: v0.0.1
+requires:
+  File::Spec: '0'
+  Moo: '0'
+  namespace::clean: '0'
+  strictures: '2'
 resources:
   license: http://dev.perl.org/licenses/
 version: v0.0.1
