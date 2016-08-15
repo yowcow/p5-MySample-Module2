@@ -1,7 +1,8 @@
+Build.PL
 Changes
 lib/MySample/Module2.pm
-Makefile.PL
 MANIFEST
-MANIFEST.SKIP
+README.md
+release-to-orepan.sh
 t/00-compile.t
 t/01-module2.t
